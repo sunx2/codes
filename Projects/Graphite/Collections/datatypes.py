@@ -1,0 +1,8 @@
+string = "String"
+Integer = "Integer"
+character = "Character"
+boolean = "Boolean"
+List = "List"
+Object = "object"
+Type = "type"
+Fuction = "function"
